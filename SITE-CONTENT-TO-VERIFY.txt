@@ -1,0 +1,13 @@
+PRODUCTION CONTENT CHECKLIST
+
+1. Verify exact firm name/spelling.
+2. Replace sample phone +1 (202) 555-0198.
+3. Replace sample email info@tjflaw.com.
+4. Replace sample address 123 Justice Way, Suite 500, Washington, DC 20001.
+5. Verify attorney names, titles, biographies, admissions, education, and headshots.
+6. Verify all results/statistics ($250M+, 3,000+ cases, 98% satisfaction, etc.) before publication.
+7. Obtain permission for testimonials or replace them with approved quotes.
+8. Review practice areas for jurisdiction-specific advertising rules.
+9. Replace social-media placeholder links (#).
+10. Have privacy policy, terms, disclaimer, and attorney-advertising disclosures reviewed before launch.
+11. Connect consultation and newsletter forms to a backend, CRM, or email service.
